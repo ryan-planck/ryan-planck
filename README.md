@@ -1,32 +1,47 @@
 # Hi, I'm Ryan Planck 👋
 
-## Information Technology | Cloud & Systems Administration
+### Information Technology Student | Cloud & Systems Administration
 
-I'm an Information Technology student focused on **cloud computing, systems administration, networking, and information security**.
+I'm pursuing a **Bachelor's degree in Information Technology** with a focus on **Cloud & Administration** and a minor in **Information Security**.
 
-This GitHub serves as a collection of my academic projects, technical labs, and hands-on work as I continue developing my skills in IT infrastructure and cloud technologies.
+This GitHub profile documents my development as an IT professional through technical projects, networking labs, systems administration work, cloud technologies, and other hands-on coursework.
 
-### 🛠️ Areas of Focus
+---
+
+## 🛠️ Technical Interests
 
 * ☁️ Cloud Computing & Administration
-* 🖥️ Windows & Linux Systems Administration
+* 🖥️ Systems Administration
 * 🌐 Networking & Infrastructure
 * 🔐 Information Security
 * ⚙️ PowerShell & Automation
-* 🌎 Web Server Administration
 * 🐧 Linux
-* ☁️ AWS & Microsoft Azure
+* 🪟 Windows Server
+* ☁️ Microsoft Azure
+* ☁️ Amazon Web Services (AWS)
+* 🌎 Web Server Administration
 
-### 📂 Featured Projects
+---
 
-Projects will be added here as I continue building my technical portfolio.
+## 📂 Featured Projects
 
-### 🎓 Education
+| Project                           | Description                                                                              |
+| --------------------------------- | ---------------------------------------------------------------------------------------- |
+| **Networking & Security Labs**    | Hands-on networking, DHCP, security, and infrastructure projects                         |
+| **NGINX Web Server Migration**    | Apache-to-NGINX migration involving PHP, SQLite, HTTPS, HTTP/2, and server configuration |
+| **AWS AI Services Architecture**  | Cloud architecture project using AWS services for automated image processing             |
+| **Additional Technical Projects** | More labs and projects will be added as my portfolio develops                            |
+
+---
+
+## 🎓 Education
 
 **Bachelor of Science in Information Technology**
 Cloud & Administration Track
-Minor: Information Security
+Minor in Information Security
 
-### 📫 Connect With Me
+---
+
+## 📫 Connect With Me
 
 [LinkedIn](#)
