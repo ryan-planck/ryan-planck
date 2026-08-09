@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ryan Planck 👋
 
-<!--
-**ryan-planck/ryan-planck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Information Technology | Cloud & Systems Administration
 
-Here are some ideas to get you started:
+I'm an Information Technology student focused on **cloud computing, systems administration, networking, and information security**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub serves as a collection of my academic projects, technical labs, and hands-on work as I continue developing my skills in IT infrastructure and cloud technologies.
+
+### 🛠️ Areas of Focus
+
+* ☁️ Cloud Computing & Administration
+* 🖥️ Windows & Linux Systems Administration
+* 🌐 Networking & Infrastructure
+* 🔐 Information Security
+* ⚙️ PowerShell & Automation
+* 🌎 Web Server Administration
+* 🐧 Linux
+* ☁️ AWS & Microsoft Azure
+
+### 📂 Featured Projects
+
+Projects will be added here as I continue building my technical portfolio.
+
+### 🎓 Education
+
+**Bachelor of Science in Information Technology**
+Cloud & Administration Track
+Minor: Information Security
+
+### 📫 Connect With Me
+
+[LinkedIn](#)
